@@ -2,15 +2,16 @@
 
 using namespace std;
 
-int x = 100;
+const int x = 100;
 
-int main(){
+int main(int argc, char* argv[]){
   int n;
   cin >> n;
 
   for (int i = 1; i <= n; i++) {
     cout << i << " chut " << n - i << " lund\n";
   }
-cout <<x << endl;
-  return 0;
+	cout << x << endl;
+  
+	return 0;
 }
