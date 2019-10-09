@@ -12,6 +12,7 @@ int main(int argc, char* argv[]){
     cout << i << " chut " << n - i << " lund\n";
   }
 	cout << x << endl;
+// 	ye hai kya be
   
 	return 0;
 }
