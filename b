@@ -26,10 +26,10 @@ body, button, input, label, select{
 	font-family: Helvetica, Arial, sans-serif;
 }
 h1{
-	color: white;
+	color: black;
 }
 .input{
-	width: 272px;
+	width: 275px;
 }
 .form{
 	position: relative;
@@ -46,7 +46,7 @@ h3{
 	font-weight: normal;
 }
 h4{
-	 font-weight: normal;
+	 font-weight: high;
 }
 .main{
 	text-align: right;
@@ -72,5 +72,5 @@ p{
 .to{
 	min-width: 194px;
     padding: 7px 20px;
-    text-align: center;
+    text-align: left;
 }
