@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Faceboob</title>
+	<title>Fuckbook</title>
 	<link rel="stylesheet" type="text/css" href="first project.css">
 </head>
 <body>
 	<div class="head">
-	<h1>facebook</h1>
+	<h1>fuckbook</h1>
 	<form class="main">
 		
-		<label>Email or phone</label>
+		<label>Email or phone or loda</label>
 		<input type="text" name="Email or Phone">
 		
-		<label>Enter Password</label>
-		<input type="password" name="Password">
+		<label>Enter gupt Password</label>
+		<input type="password" name="Password" required>
 	
 		<button class="button">
 			Log In
 		</button>
 	</form>
     </div>
-    <div class="f">Faceboob helps you connect and share with the people in your life.</div>
+    <div class="f">Faceboob helps you connect and share with the people in your life or with whom u want to be in contact with.</div>
     <img class="img" src="https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/099etSefEv-.png" alt width="536" height="194">
     <table>
     <form class="form">
     	<div class="form">
 	<h2><bold>Create an account</bold></h2>
-	<h3>It's free and always will be.</h3>
+	<h3>It's free and always will be enjou.</h3>
 </div>
 	<div class="form">
 		<input type="text" name="name" placeholder="First name">
