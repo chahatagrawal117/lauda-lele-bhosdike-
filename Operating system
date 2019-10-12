@@ -1,0 +1,23 @@
+Once you have a strong grasp of the fundamental concepts of computer science and programming, and have mastered assembly language and C, the next step is to complete one or two OS development tutorials that walk through the entire process of developing a simple OS from scratch. We found three excellent resources that do just that.
+
+Linux From Scratch will walk you through the process of building a complete Linux operating system. Completely this tutorial won’t produce a full-fledged operating system, but it will give you a solid code base on which to build out a complete operating system. Tackle advanced tutorials such as Beyond Linux from Scratch, Automated Linux from Scratch, Cross Linux from Scratch, or Hardened Linux from Scratch to build your basic OS into a useful piece of software.
+
+The little book about OS development by Erik Helin and Adam Renberg was developed as part of an advanced computer science course the authors completed while students as the Royal Institute of Technology in Stockholm. This course walks through the complete process of developing an x86 operating system by beginning with setting up a programming environment, culminating in programming for multitasking, and hitting topics such as managing system memory and developing file systems along the way.
+
+Operating System Development Series from Broken Thorn Entertainment is a series of 25 tutorials that walk you through the process of creating an OS from the ground up. Beginners beware: this series assumes you already know your way around an IDE and are a competent C and assembly language programmer.
+
+There are many texts you could use to learn about the discipline of OS development. Three of the most commonly recommended are:
+
+Modern Operating Systems by Tanenbaum and Bos;
+The Design of the UNIX Operating System by Maurice Bach;
+Operating System Concepts by Silberschatz, Galvin, and Gagne.
+OS Development Communities
+As you embark on the journey of becoming an OS developer, there are a few places where you can find other OS developers to learn from and commiserate with:
+
+OSDev.org is a wiki with a great deal of information about OS development as well as a forum where you can meet and get feedback from other like-minded programmers.
+OS Development Channel on reddit is a great community where you can learn about OS development and enjoy a moment of levity when the task of OS development becomes a bit to arduous.
+Computer Science, Programmers, and StackOverflow from StackExchange are places you can pose technical questions to other programmers when you come up against a problem you can’t seem to figure out on your own.
+Summary
+Learning OS development is one of the most challenging programming tasks you can undertake. However, succeeding in your effort to build a working OS will mark you as a competent programmer and one who deeply understands how processors, hardware, and computer programs work together to create what the rest of the world takes for granted as a functioning computer.
+
+Next steps – Looking for a web host? See our guide to web hosting & our recommended hosts.
