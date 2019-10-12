@@ -13,3 +13,6 @@ Spread wide your Golden Wind Why don't you dance to swing? I'm swinging like a S
 Vocal percussion on a whole 'nother level coming from my mind! (Comin' from my mind!) Vocal percussion on a whole 'nother level coming from my mind! (Comin' from my mind!)
 
 It's like a burning sunrise!
+mamda mamda chappal ka chamda tango ko moduga karega bhangra 
+ek kaam kar aake mera moot pee 
+loda lele bhosdike
